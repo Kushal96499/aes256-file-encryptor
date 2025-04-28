@@ -5,6 +5,20 @@ Comes with a **simple GUI** built using **Tkinter**!
 
 ---
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: KUSHAL KUMAWAT
+
+*INTERN ID*: CT04DK768
+
+*DOMAIN*: Cyber Security & Ethical Hacking
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+---
+
 ## ✨ Features
 
 - 🔒 AES-256 Secure Encryption
