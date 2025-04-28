@@ -48,7 +48,7 @@ Done!
 
 ---
 
-## OUTPUT->
+# 📸 Sample Output
 ![Image](https://github.com/user-attachments/assets/cfd551eb-37c1-4110-99d1-4c28798da870)
 
 ---
