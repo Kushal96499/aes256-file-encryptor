@@ -60,9 +60,9 @@ Always remember your key. Lost keys = lost data!
 
 ## 📂 Project Structure
 
--File Name	             -Description
--gui_file_encryptor.py	 -Main Python script for the tool
--README.md	             -Project description and usage guide
+## -File Name	             -Description
+### -gui_file_encryptor.py	 -Main Python script for the tool
+### -README.md	             -Project description and usage guide
 
 ---
 
