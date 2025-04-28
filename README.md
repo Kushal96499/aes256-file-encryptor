@@ -47,6 +47,11 @@ Choose whether you want to Encrypt or Decrypt.
 Done!
 
 ---
+
+## OUTPUT->
+![Image](https://github.com/user-attachments/assets/cfd551eb-37c1-4110-99d1-4c28798da870)
+
+---
 ## ⚠️ Important Notes
 Your secret key must be exactly 32 characters long for AES-256.
 
