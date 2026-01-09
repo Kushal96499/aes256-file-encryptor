@@ -3,21 +3,6 @@
 A secure and beginner-friendly **Python** tool to **Encrypt** and **Decrypt** your files using the **AES-256 encryption standard**.  
 Comes with a **simple GUI** built using **Tkinter**!
 
----
-
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: KUSHAL KUMAWAT
-
-*INTERN ID*: CT04DK768
-
-*DOMAIN*: Cyber Security & Ethical Hacking
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
----
 
 ## ✨ Features
 
@@ -94,3 +79,4 @@ Do not use for critical or government-level encryption without proper security a
 ## 🤝 Credits
 Developed during CODTECH Cyber Security Internship.
 Crafted with ❤️ to empower beginners in cybersecurity.
+
