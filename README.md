@@ -77,6 +77,6 @@ Do not use for critical or government-level encryption without proper security a
 ---
 
 ## 🤝 Credits
-Developed during CODTECH Cyber Security Internship.
 Crafted with ❤️ to empower beginners in cybersecurity.
+
 
